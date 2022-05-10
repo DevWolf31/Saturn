@@ -1,4 +1,4 @@
-# WScript
+# WLang
 A programming language built on **Java**.
 
 ### Keywords:
@@ -19,3 +19,4 @@ This keyword read a value from the console.
 ``` 
 read x
 ```
+---
