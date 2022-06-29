@@ -6,19 +6,46 @@ A programming language built on **Java**.
 ### Keywords:
 **Write**:
 <br>
-This keyword write a string to the console.
+This keyword write a value to the console.
 <br>
-**Example**: 
+**Syntax**: 
 ``` 
-write Hello World! 
+write <variable | text>
+```
+---
+**Error**:
+<br>
+This keyword write a error value to the console.
+<br>
+**Syntax**: 
+``` 
+error <variable | text>
 ```
 ---
 **Read**:
 <br>
 This keyword read a value from the console.
 <br>
-**Example**: 
+**Syntax**: 
 ``` 
-read x
+read <variable>
+```
+---
+** Pull **
+<br>
+Pull a value from the memory to the accumulator.
+<br>
+**Syntax**: 
+``` 
+pull <variable>
+```
+---
+** Push **
+<br>
+Push a value from the accumulator to the memory.
+<br>
+**Syntax**: 
+``` 
+pull <variable>
 ```
 ---
