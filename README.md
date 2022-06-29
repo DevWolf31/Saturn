@@ -31,7 +31,7 @@ This keyword read a value from the console.
 read <variable>
 ```
 ---
-** Pull **
+**Pull**:
 <br>
 Pull a value from the memory to the accumulator.
 <br>
@@ -40,12 +40,12 @@ Pull a value from the memory to the accumulator.
 pull <variable>
 ```
 ---
-** Push **
+**Push**:
 <br>
 Push a value from the accumulator to the memory.
 <br>
 **Syntax**: 
 ``` 
-pull <variable>
+push <variable>
 ```
 ---
